@@ -64839,6 +64839,7 @@ ff02::3 ip6-allhosts
 
 #<extra-sites>
 0.0.0.0 adashx4sg.ut.taobao.com
+0.0.0.0 taobao.com
 #</extra-sites>
 
 
