@@ -64830,3 +64830,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 test.netguard.me
+
+
+
+#<remove-site>
+0.0.0.0 www.hugedomains.com
+#</remove-site>
+
+#<extra-sites>
+0.0.0.0 adashx4sg.ut.taobao.com
+#</extra-sites>
+
+
+
