@@ -64833,13 +64833,15 @@ ff02::3 ip6-allhosts
 
 
 
-#<remove-site>
+#<remove-sites>
 0.0.0.0 www.hugedomains.com
-#</remove-site>
+#</remove-sites>
 
 #<extra-sites>
 0.0.0.0 adashx4sg.ut.taobao.com
 0.0.0.0 taobao.com
+0.0.0.0 adi.admicro.vn
+0.0.0.0 lg1.logging.admicro.vn
 #</extra-sites>
 
 
