@@ -64871,6 +64871,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 static.adtimaserver.vn
 127.0.0.1 media.yomedia.vn
 127.0.0.1 static.yomedia.vn
+127.0.0.1 widget.adnet.vn
 #</vn-sites>
 
 
