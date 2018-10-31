@@ -64840,6 +64840,7 @@ ff02::3 ip6-allhosts
 #<extra-sites>
 0.0.0.0 adashx4sg.ut.taobao.com
 0.0.0.0 adi.admicro.vn
+0.0.0.0 adi.vcmedia.vn
 0.0.0.0 lg1.logging.admicro.vn
 0.0.0.0 media1.admicro.vn
 0.0.0.0 static.amcdn.vn
