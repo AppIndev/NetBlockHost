@@ -64839,12 +64839,37 @@ ff02::3 ip6-allhosts
 
 #<extra-sites>
 0.0.0.0 adashx4sg.ut.taobao.com
-0.0.0.0 taobao.com
 0.0.0.0 adi.admicro.vn
 0.0.0.0 lg1.logging.admicro.vn
 0.0.0.0 media1.admicro.vn
+0.0.0.0 static.amcdn.vn
+127.0.0.1 pson.logging.admicro.vn
 0.0.0.0 mobilead.vn
+
 #</extra-sites>
 
+#<vn-sites>
+127.0.0.1 iad.eclick.vn
+127.0.0.1 s.eclick.vn
+127.0.0.1 e.eclick.vn
+127.0.0.1 l.a.eclick.vn
+127.0.0.1 stla.eclick.vn
+127.0.0.1 la.eclick.vn
+127.0.0.1 log.eclick.vn
+127.0.0.1 st.l.a.eclick.vn
+127.0.0.1 st.html.polyad.net
+127.0.0.1 go.polyad.net
+127.0.0.1 st.img.polyad.net
+127.0.0.1 customers.fptad.com
+127.0.0.1 fptad.com
+127.0.0.1 www.fptad.com
+127.0.0.1 adtimaserver.vn
+127.0.0.1 log.adtimaserver.vn
+127.0.0.1 media.adtimaserver.vn
+127.0.0.1 api.adtimaserver.vn
+127.0.0.1 static.adtimaserver.vn
+127.0.0.1 media.yomedia.vn
+127.0.0.1 static.yomedia.vn
+#</vn-sites>
 
 
