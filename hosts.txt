@@ -64843,7 +64843,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 lg1.logging.admicro.vn
 0.0.0.0 media1.admicro.vn
 0.0.0.0 static.amcdn.vn
-127.0.0.1 pson.logging.admicro.vn
+0.0.0.0 pson.logging.admicro.vn
+0.0.0.0 adnetwork.admicro.vn
 0.0.0.0 mobilead.vn
 
 #</extra-sites>
