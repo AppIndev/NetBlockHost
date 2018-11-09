@@ -64862,6 +64862,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 st.html.polyad.net
 127.0.0.1 go.polyad.net
 127.0.0.1 st.img.polyad.net
+127.0.0.1 img.polyad.net
 127.0.0.1 customers.fptad.com
 127.0.0.1 fptad.com
 127.0.0.1 www.fptad.com
