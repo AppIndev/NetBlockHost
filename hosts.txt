@@ -64839,13 +64839,29 @@ ff02::3 ip6-allhosts
 
 #<extra-sites>
 0.0.0.0 adashx4sg.ut.taobao.com
-0.0.0.0 adi.admicro.vn
-0.0.0.0 adi.vcmedia.vn
-0.0.0.0 lg1.logging.admicro.vn
-0.0.0.0 media1.admicro.vn
-0.0.0.0 static.amcdn.vn
+127.0.0.1 logging.admicro.vn
+127.0.0.1 www.logging.admicro.vn
+127.0.0.1 lg0.logging.admicro.vn
+127.0.0.1 www.lg0.logging.admicro.vn
+127.0.0.1 lg1.logging.admicro.vn
+127.0.0.1 www.lg1.logging.admicro.vn
+127.0.0.1 lg2.logging.admicro.vn
+127.0.0.1 www.lg2.logging.admicro.vn
+127.0.0.1 admicro.vn
+127.0.0.1 www.admicro.vn
+127.0.0.1 media.admicro.vn
+127.0.0.1 www.media.admicro.vn
+127.0.0.1 media0.admicro.vn
+127.0.0.1 www.media0.admicro.vn
+127.0.0.1 media1.admicro.vn
+127.0.0.1 www.media1.admicro.vn
+127.0.0.1 media2.admicro.vn
+127.0.0.1 www.media2.admicro.vn
+127.0.0.1 adi.admicro.vn
 0.0.0.0 pson.logging.admicro.vn
 0.0.0.0 adnetwork.admicro.vn
+0.0.0.0 adi.vcmedia.vn
+0.0.0.0 static.amcdn.vn
 0.0.0.0 mobilead.vn
 
 #</extra-sites>
