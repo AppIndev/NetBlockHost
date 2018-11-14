@@ -64894,6 +64894,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 media.yomedia.vn
 127.0.0.1 static.yomedia.vn
 127.0.0.1 widget.adnet.vn
+127.0.0.1 tracking.vietnamnetad.vn
+127.0.0.1 img.vietnamnetad.vn
+127.0.0.1 vads.vn
 #</vn-sites>
 
 
