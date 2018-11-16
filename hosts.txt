@@ -64898,6 +64898,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 img.vietnamnetad.vn
 127.0.0.1 vads.vn
 127.0.0.1 adminplayer.sohatv.vn
+127.0.0.1 nspapi.aiservice.vn
+127.0.0.1 cdnstoremedia.com
+127.0.0.1 contineljs.com
 #</vn-sites>
 
 
