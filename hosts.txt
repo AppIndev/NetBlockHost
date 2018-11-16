@@ -64897,6 +64897,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 tracking.vietnamnetad.vn
 127.0.0.1 img.vietnamnetad.vn
 127.0.0.1 vads.vn
+127.0.0.1 adminplayer.sohatv.vn
 #</vn-sites>
 
 
