@@ -64906,7 +64906,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 contineljs.com
 0.0.0.0 adminplayer.sohatv.vn
 0.0.0.0 sentry.mediacdn.vn
-0.0.0.0 cafebiz.cafebizcdn.vn
 0.0.0.0 static.woopra.com
 #</vn-sites>
 
