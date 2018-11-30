@@ -64854,6 +64854,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 media0.admicro.vn
 127.0.0.1 www.media0.admicro.vn
 127.0.0.1 media1.admicro.vn
+127.0.0.1 media.admicro.vn
 127.0.0.1 www.media1.admicro.vn
 127.0.0.1 media2.admicro.vn
 127.0.0.1 www.media2.admicro.vn
@@ -64907,6 +64908,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adminplayer.sohatv.vn
 0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 static.woopra.com
+0.0.0.0 beacon.marathon.mesos.vn
 #</vn-sites>
 
 
