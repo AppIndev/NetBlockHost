@@ -64862,6 +64862,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adnetwork.admicro.vn
 0.0.0.0 adi.vcmedia.vn
 0.0.0.0 static.amcdn.vn
+0.0.0.0 amcdn.vn
 0.0.0.0 mobilead.vn
 0.0.0.0 cafefcdn.com
 0.0.0.0 cafebizcdn.com
