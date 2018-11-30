@@ -10,9 +10,9 @@
 #
 # ===============================================================
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
+0.0.0.0 localhost
+0.0.0.0 localhost.localdomain
+0.0.0.0 local
 255.255.255.255 broadcasthost
 ::1 localhost
 ::1 ip6-localhost
@@ -2301,7 +2301,7 @@ ff02::3 ip6-allhosts
 
 
 
-# There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0 
+# There is a version of this file that uses 0.0.0.0 instead of 0.0.0.0 
 
 # available at http://someonewhocares.org/hosts/.
 
@@ -4876,7 +4876,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mp3red.cc
 0.0.0.0 mpkhi-bk.multi.net.pk
 0.0.0.0 mplayerdownloader.com
-0.0.0.0 ms127.0.0.101341.club
+0.0.0.0 ms0.0.0.001341.club
 0.0.0.0 msgstore2.pldtprv.net
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 mtccsun.imtech.ernet.in
@@ -16574,7 +16574,7 @@ ff02::3 ip6-allhosts
 
 #                                                          #
 
-# This *must* be the first line: 127.0.0.1     localhost   #
+# This *must* be the first line: 0.0.0.0     localhost   #
 
 #                                                          #
 
@@ -62950,7 +62950,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 applift.com
 # use finer grained hostnames?
 
-#127.0.0.1 tracking.applift.com
+#0.0.0.0 tracking.applift.com
 
 
 
@@ -64839,26 +64839,26 @@ ff02::3 ip6-allhosts
 
 #<extra-sites>
 0.0.0.0 adashx4sg.ut.taobao.com
-127.0.0.1 logging.admicro.vn
-127.0.0.1 www.logging.admicro.vn
-127.0.0.1 lg0.logging.admicro.vn
-127.0.0.1 www.lg0.logging.admicro.vn
-127.0.0.1 lg1.logging.admicro.vn
-127.0.0.1 www.lg1.logging.admicro.vn
-127.0.0.1 lg2.logging.admicro.vn
-127.0.0.1 www.lg2.logging.admicro.vn
-127.0.0.1 admicro.vn
-127.0.0.1 www.admicro.vn
-127.0.0.1 media.admicro.vn
-127.0.0.1 www.media.admicro.vn
-127.0.0.1 media0.admicro.vn
-127.0.0.1 www.media0.admicro.vn
-127.0.0.1 media1.admicro.vn
-127.0.0.1 media.admicro.vn
-127.0.0.1 www.media1.admicro.vn
-127.0.0.1 media2.admicro.vn
-127.0.0.1 www.media2.admicro.vn
-127.0.0.1 adi.admicro.vn
+0.0.0.0 logging.admicro.vn
+0.0.0.0 www.logging.admicro.vn
+0.0.0.0 lg0.logging.admicro.vn
+0.0.0.0 www.lg0.logging.admicro.vn
+0.0.0.0 lg1.logging.admicro.vn
+0.0.0.0 www.lg1.logging.admicro.vn
+0.0.0.0 lg2.logging.admicro.vn
+0.0.0.0 www.lg2.logging.admicro.vn
+0.0.0.0 admicro.vn
+0.0.0.0 www.admicro.vn
+0.0.0.0 media.admicro.vn
+0.0.0.0 www.media.admicro.vn
+0.0.0.0 media0.admicro.vn
+0.0.0.0 www.media0.admicro.vn
+0.0.0.0 media1.admicro.vn
+0.0.0.0 media.admicro.vn
+0.0.0.0 www.media1.admicro.vn
+0.0.0.0 media2.admicro.vn
+0.0.0.0 www.media2.admicro.vn
+0.0.0.0 adi.admicro.vn
 0.0.0.0 pson.logging.admicro.vn
 0.0.0.0 adnetwork.admicro.vn
 0.0.0.0 adi.vcmedia.vn
@@ -64871,40 +64871,40 @@ ff02::3 ip6-allhosts
 #</extra-sites>
 
 #<vn-sites>
-127.0.0.1 iad.eclick.vn
-127.0.0.1 s.eclick.vn
-127.0.0.1 e.eclick.vn
-127.0.0.1 l.a.eclick.vn
-127.0.0.1 stla.eclick.vn
-127.0.0.1 la.eclick.vn
-127.0.0.1 log.eclick.vn
-127.0.0.1 st.l.a.eclick.vn
-127.0.0.1 st.html.polyad.net
-127.0.0.1 go.polyad.net
-127.0.0.1 st.img.polyad.net
-127.0.0.1 img.polyad.net
-127.0.0.1 html.polyad.net
-127.0.0.1 core.polyad.net
-127.0.0.1 customers.fptad.com
-127.0.0.1 fptad.com
-127.0.0.1 www.fptad.com
-127.0.0.1 adtimaserver.vn
-127.0.0.1 log.adtimaserver.vn
-127.0.0.1 media.adtimaserver.vn
-127.0.0.1 api.adtimaserver.vn
-127.0.0.1 static.adtimaserver.vn
-127.0.0.1 media.yomedia.vn
-127.0.0.1 static.yomedia.vn
-127.0.0.1 widget.adnet.vn
-127.0.0.1 tracking.vietnamnetad.vn
-127.0.0.1 img.vietnamnetad.vn
-127.0.0.1 vads.vn
-127.0.0.1 adminplayer.sohatv.vn
-127.0.0.1 nspapi.aiservice.vn
-127.0.0.1 sentry.mediacdn.vn
-127.0.0.1 cdnstoremedia.com
-127.0.0.1 static.contineljs.com
-127.0.0.1 contineljs.com
+0.0.0.0 iad.eclick.vn
+0.0.0.0 s.eclick.vn
+0.0.0.0 e.eclick.vn
+0.0.0.0 l.a.eclick.vn
+0.0.0.0 stla.eclick.vn
+0.0.0.0 la.eclick.vn
+0.0.0.0 log.eclick.vn
+0.0.0.0 st.l.a.eclick.vn
+0.0.0.0 st.html.polyad.net
+0.0.0.0 go.polyad.net
+0.0.0.0 st.img.polyad.net
+0.0.0.0 img.polyad.net
+0.0.0.0 html.polyad.net
+0.0.0.0 core.polyad.net
+0.0.0.0 customers.fptad.com
+0.0.0.0 fptad.com
+0.0.0.0 www.fptad.com
+0.0.0.0 adtimaserver.vn
+0.0.0.0 log.adtimaserver.vn
+0.0.0.0 media.adtimaserver.vn
+0.0.0.0 api.adtimaserver.vn
+0.0.0.0 static.adtimaserver.vn
+0.0.0.0 media.yomedia.vn
+0.0.0.0 static.yomedia.vn
+0.0.0.0 widget.adnet.vn
+0.0.0.0 tracking.vietnamnetad.vn
+0.0.0.0 img.vietnamnetad.vn
+0.0.0.0 vads.vn
+0.0.0.0 adminplayer.sohatv.vn
+0.0.0.0 nspapi.aiservice.vn
+0.0.0.0 sentry.mediacdn.vn
+0.0.0.0 cdnstoremedia.com
+0.0.0.0 static.contineljs.com
+0.0.0.0 contineljs.com
 0.0.0.0 adminplayer.sohatv.vn
 0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 static.woopra.com
