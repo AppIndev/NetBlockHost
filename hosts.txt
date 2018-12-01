@@ -64837,6 +64837,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.hugedomains.com
 #</remove-sites>
 
+#<adult-sites>
+0.0.0.0 xvideos.com
+0.0.0.0 www.xvideos.com
+#</adult-sites>
+
 #<extra-sites>
 0.0.0.0 adashx4sg.ut.taobao.com
 0.0.0.0 logging.admicro.vn
