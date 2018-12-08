@@ -64873,6 +64873,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cafefcdn.com
 0.0.0.0 cafebizcdn.com
 0.0.0.0 www.gmodules.com
+0.0.0.0 sbbanner.com
 #</extra-sites>
 
 #<vn-sites>
