@@ -64872,7 +64872,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobilead.vn
 0.0.0.0 cafefcdn.com
 0.0.0.0 cafebizcdn.com
-
+0.0.0.0 www.gmodules.com
 #</extra-sites>
 
 #<vn-sites>
