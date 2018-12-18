@@ -1,1 +1,1 @@
-2;https://github.com/AppIndev/NetBlockHost/blob/master/AdLockPro-v1.01-release.apk?raw=true;1;
+2;https://github.com/AppIndev/NetBlockHost/raw/master/AdLockPro-v1.01-release.apk;1;
