@@ -64913,6 +64913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 98.138.219.232
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 video.zadn.vn
+0.0.0.0 videox.zadn.vn
 #</vn-sites>
 
 
