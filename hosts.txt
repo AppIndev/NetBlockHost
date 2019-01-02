@@ -22800,7 +22800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5362399.fls.doubleclick.net
 0.0.0.0 video-ad-stats.googlesyndication.com
 # 0.0.0.0 redirector.googlevideo.com #[affects video playback]
-
+0.0.0.0 redirector.googlevideo.com
 # [Google / DoubleClick][AS15169][173.194.0.0 - 173.194.255.255]
 
 0.0.0.0 dp.g.doubleclick.net
