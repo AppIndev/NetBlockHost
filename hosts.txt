@@ -64969,3 +64969,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 2mdn.net
 #</youtube-sites>
 
+0.0.0.0 service.game-mode.net
