@@ -64977,3 +64977,4 @@ ff02::3 ip6-allhosts
 #</youtube-sites>
 
 0.0.0.0 service.game-mode.net
+0.0.0.0 graph.facebook.com
