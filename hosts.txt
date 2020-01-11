@@ -5493,7 +5493,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gd7.doubleclick.net
 0.0.0.0 gd8.doubleclick.net
 0.0.0.0 gd9.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 ln.doubleclick.net
 0.0.0.0 m1.2mdn.net
@@ -64956,7 +64955,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 apis.google.com
 0.0.0.0 2975c.v.fwmrm.net
 0.0.0.0 static.doubleclick.net
-0.0.0.0 googleadservices.com
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.mo.doubleclick.net
@@ -64978,4 +64976,3 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 service.game-mode.net
 0.0.0.0 graph.facebook.com
-0.0.0.0 www.googleadservices.com
