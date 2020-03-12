@@ -22904,7 +22904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4684100.fls.doubleclick.net
 0.0.0.0 fls.au.doubleclick.net
 0.0.0.0 www.doubleclickbygoogle.com
-0.0.0.0 google-analytics.com
+#0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 4.afs.googleadservices.com
@@ -64927,7 +64927,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.youtube.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 www.gstatic.com
-#0.0.0.0 gstatic.com
+0.0.0.0 gstatic.com
 0.0.0.0 clients1.google.com
 0.0.0.0 dts.innovid.com
 0.0.0.0 googleads.g.doubleclick.net
