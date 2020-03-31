@@ -2596,7 +2596,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.whipcrack.org
 0.0.0.0 www.wormgush.com
 0.0.0.0 www.xvideoslive.com
-0.0.0.0 www.y8.com
+#0.0.0.0 www.y8.com
 0.0.0.0 www.youaresogay.com
 0.0.0.0 www.ypmate.com
 0.0.0.0 www.zentastic.com
