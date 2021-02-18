@@ -14101,7 +14101,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.go-free-gifts.com
 0.0.0.0 www.gofreegifts.com
 0.0.0.0 www.goody-garage.com
-0.0.0.0 www.googleadservices.com
+#0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googlewordpad.info
 0.0.0.0 www.googmel.win
 0.0.0.0 www.gopopup.com
@@ -64963,7 +64963,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 www.googleadservices.com
+#0.0.0.0 www.googleadservices.com
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 www.youtube-nocookie.com
 0.0.0.0 analytic-google.com
