@@ -1,6 +1,6 @@
 {
 "app_name": "NetProtector", 
-"app_version": 7,
+"version": 7,
 "app_url": "https://netprotector.blogspot.com",
 "app_file": "https://github.com/AppIndev/NetBlockHost/raw/master/NetProtector.apk",
 "app_host_update": 0,
