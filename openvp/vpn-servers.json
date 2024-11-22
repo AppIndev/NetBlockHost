@@ -1,0 +1,19 @@
+[
+	{
+		"openvpn_name": "VPN-USA-1", 
+		"openvpn_user": "vpn",
+		"openvpn_password": "vpn",
+		"openvpn_url": "https://vpnbook.com/url",
+		"openvpn_country": "usa",
+		"openvpn_provider": "vpnbook"
+	},
+	{
+		"openvpn_name": "VPN-CA-1", 
+		"openvpn_user": "vpn",
+		"openvpn_password": "vpn",
+		"openvpn_url": "https://vpnbook.com/url",
+		"openvpn_country": "canada",
+		"openvpn_provider": "vpnbook"
+	}
+
+]
