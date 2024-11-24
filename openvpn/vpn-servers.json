@@ -1,4 +1,8 @@
-[
+{  
+  "vpnbook_user":"vpnbook",
+  "vpnbook_password":"e83zu76",
+  "timestamp":"1732417893",
+  "list": [
 	{
 		"openvpn_name": "VPN-USA-1", 
 		"openvpn_user": "vpn",
@@ -17,3 +21,4 @@
 	}
 
 ]
+}
