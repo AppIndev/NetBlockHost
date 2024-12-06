@@ -1,0 +1,10 @@
+{
+"app_name": "VpnFinder", 
+"version": 1,
+"app_url": "https://vpnfinderapp.blogspot.com",
+"app_file": "https://github.com/AppIndev/NetBlockHost/raw/master/VpnFinder.apk",
+"app_host_update": 0,
+"app_data_file": "https://github.com/AppIndev/NetBlockHost/raw/openvpn/vpnfiles.zip",
+"release_time" : 1699529561, 
+"release_note" : "Fix app"
+}
