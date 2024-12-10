@@ -1,19 +1,19 @@
 <ul>
 	<li>
 		<div style="width:30%" class="favicon favicon-music">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Echo_link-blue_icon.svg/150px-Echo_link-blue_icon.svg.png">
+			<img src="https://img.utdstc.com/icon/336/918/33691894f380dd9c721b63bca688ff7cbe5f37275a55f28de4ebe7071e7b4eab:100">
 		</div>
 		<div style="width:70%">
-		<a href="" class="" > AdlockPro</a>
+		<a href="https://adlockpro-block-ads-for-android.en.uptodown.com/android" class="" > AdlockPro</a>
 		</div>
 	</li>
 	
 	<li>
 		<div style="width:30%" class="favicon favicon-music">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Antu_accessories-ebook-reader.svg/512px-Antu_accessories-ebook-reader.svg.png">
+			<img src="https://img.utdstc.com/icon/79a/5cc/79a5cce220a6e0960859dc35d71f897ec004f413c6bff0b48538d343bcdc0c9b:100">
 		</div>
 		<div style="width:70%">
-		<a href="" class="" > ReaderLib</a>
+		<a href="https://readerlib.en.uptodown.com/android" class="" > ReaderLib</a>
 		</div>
 	</li>
 	
