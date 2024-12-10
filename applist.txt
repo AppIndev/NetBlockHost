@@ -1,0 +1,20 @@
+<ul>
+	<li>
+		<div style="width:30%" class="favicon favicon-music">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Echo_link-blue_icon.svg/150px-Echo_link-blue_icon.svg.png">
+		</div>
+		<div style="width:70%">
+		<a href="" class="" > AdlockPro</a>
+		</div>
+	</li>
+	
+	<li>
+		<div style="width:30%" class="favicon favicon-music">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Antu_accessories-ebook-reader.svg/512px-Antu_accessories-ebook-reader.svg.png">
+		</div>
+		<div style="width:70%">
+		<a href="" class="" > ReaderLib</a>
+		</div>
+	</li>
+	
+</ul>
