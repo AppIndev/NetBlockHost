@@ -6,5 +6,7 @@
 "app_host_update": 0,
 "app_data_file": "https://github.com/AppIndev/NetBlockHost/raw/openvpn/vpnfiles.zip",
 "release_time" : 1699529561, 
-"release_note" : "Fix app"
+"release_note" : "Fix app",
+"data_update_time" : 1733979598,
+"data_update_access" : "c28hes5"
 }
