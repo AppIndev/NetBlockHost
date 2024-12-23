@@ -1,10 +1,10 @@
 {
 "app_name": "AdLockPro", 
-"version": 11,
+"version": 12,
 "app_url": "https://netprotectorapp.blogspot.com",
 "app_file": "https://github.com/AppIndev/NetBlockHost/raw/master/AdLockPro.apk",
 "app_host_update": 0,
 "app_host_file": "https://github.com/AppIndev/NetBlockHost/raw/master/hosts.txt",
-"release_time" : 1699529561, 
-"release_note" : "Fix Crash app"
+"release_time" : 1734918366, 
+"release_note" : "Fix permision and add features"
 }
