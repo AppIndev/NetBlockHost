@@ -1,7 +1,8 @@
 {
 "app_name": "AdLockPro", 
 "version": 16,
-"app_url": "https://netprotectorapp.blogspot.com",
+"app_url": "https://docs.google.com/forms/d/1Eiz-Jhlmr8-OzW8ojczsCrFSwjj2tfjoTFMXr1EoSEM/preview",
+"app_support_url": "https://docs.google.com/forms/d/1Eiz-Jhlmr8-OzW8ojczsCrFSwjj2tfjoTFMXr1EoSEM/preview",
 "app_file": "https://github.com/AppIndev/NetBlockHost/raw/master/AdLockPro.apk",
 "app_host_update": 0,
 "app_host_file": "https://github.com/AppIndev/NetBlockHost/raw/master/hosts.txt",
